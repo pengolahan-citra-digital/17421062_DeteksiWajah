@@ -1,0 +1,14 @@
+D:\selasa\Deteksi_wajah\Deteksi_wajah\bin\Debug\Deteksi_wajah.exe
+D:\selasa\Deteksi_wajah\Deteksi_wajah\bin\Debug\Deteksi_wajah.pdb
+D:\selasa\Deteksi_wajah\Deteksi_wajah\bin\Debug\Emgu.CV.dll
+D:\selasa\Deteksi_wajah\Deteksi_wajah\bin\Debug\Emgu.CV.UI.dll
+D:\selasa\Deteksi_wajah\Deteksi_wajah\bin\Debug\Emgu.Util.dll
+D:\selasa\Deteksi_wajah\Deteksi_wajah\bin\Debug\ZedGraph.dll
+D:\selasa\Deteksi_wajah\Deteksi_wajah\bin\Debug\Emgu.CV.xml
+D:\selasa\Deteksi_wajah\Deteksi_wajah\bin\Debug\Emgu.CV.UI.xml
+D:\selasa\Deteksi_wajah\Deteksi_wajah\bin\Debug\Emgu.Util.xml
+D:\selasa\Deteksi_wajah\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.Form1.resources
+D:\selasa\Deteksi_wajah\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.Properties.Resources.resources
+D:\selasa\Deteksi_wajah\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.csproj.GenerateResource.Cache
+D:\selasa\Deteksi_wajah\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.exe
+D:\selasa\Deteksi_wajah\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.pdb
